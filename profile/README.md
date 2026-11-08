@@ -2,26 +2,8 @@
 
 # Introduction to Networked, Distributed, and Parallel Computing
 
-This organization hosts examples, reference implementations, and course materials that help
-students explore networking, concurrency, distributed systems, and parallel
-computing through practical programming exercises.
+This organization hosts code examples and course materials for CSC 364. Run a client and server, experiment with thread coordination, or compare sequential and parallel solutions to the same problem.
 
-## About the Repositories
+# Academic Integrity
 
-The repositories include programming examples and supporting materials covering
-topics such as socket communication, client-server systems, network protocols,
-concurrency, threads, coordination, pipelines, and parallel problem solving.
-
-These projects are intended to support experimentation, demonstration, and
-**learning by doing**.
-
-## Academic Integrity
-
-Course examples are provided for educational purposes. Students should use them
-to understand concepts and programming techniques and should follow the academic
-integrity requirements of their course when completing assignments.
-
-## About
-
-Course: CSC 364 — Introduction to Networked, Distributed, and Parallel Computing  
-Institution: California Polytechnic State University, San Luis Obispo
+Use these examples to understand the concepts and practice the techniques. When completing assignments, follow the course’s academic integrity policy and its rules on using or adapting example code.
