@@ -1,10 +1,8 @@
-# CSC 364 — Introduction to Networked, Distributed, and Parallel Computing
+![CSC 0364 course banner](assets/0364-banner.png)
 
-This organization hosts repositories that support the teaching and learning of
-**CSC 364: Introduction to Networked, Distributed, and Parallel Computing** at
-California Polytechnic State University, San Luis Obispo.
+# Introduction to Networked, Distributed, and Parallel Computing
 
-It provides examples, reference implementations, and course materials that help
+This organization hosts examples, reference implementations, and course materials that help
 students explore networking, concurrency, distributed systems, and parallel
 computing through practical programming exercises.
 
